@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pavan Bhavsar
-- 👀 I’m interested in ...
+- 👋 Hi, I’m  @Pavan Bhavsar
+- 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...PHP And Python Adavnce
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@Gmail
+- 📫 How to reach me ...Gmail - pavanbhavsar2700@gmail.com
 
 <!---
 pavan2700/pavan2700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
