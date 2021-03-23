@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  @Pavan Bhavsar
 - 👀 I’m interested in ...Software Development
-- 🌱 I’m currently learning ...PHP And Python Adavnce
+- 🌱 I’m currently learning ...PHP And Python Advance
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Gmail - pavanbhavsar2700@gmail.com
 
